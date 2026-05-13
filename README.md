@@ -58,4 +58,4 @@ You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`co
 
 ## 🔍 About the Author
 
-Currently he is a Senior Oracle DBA with more than 12 years experiences. So far he has finished publishing more than 100 number of original notes on his personal blog of WordPress, furthermore regularly submitted some original code snippets of SHELL, Oracle SQL on his GitHub. He is passionately fond of communicating Oracle technology with some domestic and overseas guys, peers and friends, is **`@oracleace alumni`** and any opinions are his own.
+Currently he is a Senior Oracle DBA with more than 12 years experiences. So far he has finished publishing more than 100 number of original notes on his personal blog of WordPress, furthermore regularly submitted some original code snippets of SHELL, Oracle SQL on his GitHub. He is passionately fond of communicating Oracle technology with some domestic and overseas guys, peers and friends, is **`OracleACE Alumni`** and any opinions are his own.
