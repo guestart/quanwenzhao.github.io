@@ -29,6 +29,7 @@ You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`co
   - Slide Deck: [Oracle SQL Join Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Oracle%20SQL%20Join%20Paradox.pdf)
   - Infographic: [SQL Join Syntax Standards Comparison.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/SQL%20Join%20Syntax%20Standards%20Comparison.png)
   - Similar Podcast App: [Podcast-Why Legacy Oracle SQL Joins Crash Databases.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Podcast-Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases.html) (you need download **`Why Legacy Oracle SQL Joins Crash Databases.m4a`** from [here](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases.m4a) to your local computer then upload it to the App)
+  - Similar Podcast App 2: [Podcast-Why Legacy Oracle SQL Joins Crash Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Legacy Oracle SQL Joins Crash Databases.m4a`** in the .html)
 
 - 02 Why Oracle ROWNUM Greater Than One Returns Zero?
 
@@ -39,6 +40,7 @@ You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`co
   - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/The%20Oracle%20ROWNUM%20Paradox.pdf)
   - Infographic: [Database ROWNUM Top-N Query Paradoxed.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Database%20ROWNUM%20Top-N%20Query%20Paradoxed.png)
   - Similar Podcast App: [Podcast-Why Oracle SQL Top-N Queries Fail.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail.html) (you need download **`Why Oracle SQL Top-N Queries Fail.m4a`** from [here](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Why%20Oracle%20SQL%20Top-N%20Queries%20Fail.m4a) to your local computer then upload it to the App)
+  - Similar Podcast App 2: [Podcast-Why Oracle SQL Top-N Queries Fail-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Oracle SQL Top-N Queries Fail.m4a`** in the .html)
 
 - 05 Why Your SQL Results Keep Shifting?
 
@@ -51,6 +53,7 @@ You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`co
   - Slide Deck: [Invisible Index Killer.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Invisible%20Index%20Killer.pdf)
   - Infographic: [Mastering SQL Implicit Data Conversions.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Mastering%20SQL%20Implicit%20Data%20Conversions.png)
   - Similar Podcast App: [Podcast-Two Missing Quotes Crash Oracle Databases.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases.html) (you need download **`Two Missing Quotes Crash Oracle Databases.m4a`** from [here](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Two%20Missing%20Quotes%20Crash%20Oracle%20Databases.m4a) to your local computer then upload it to the App)
+  - Similar Podcast App 2: [Podcast-Two Missing Quotes Crash Oracle Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Two Missing Quotes Crash Oracle Databases.m4a`** in the .html)
 
 - 09 Replace Database Triggers With Virtual Columns!
 
