@@ -1,5 +1,7 @@
 # 🌟 Elegantly Solving Oracle SQL Impressed Pain Spots You've Encountered Once (10 episodes) 🌟
 
+![](https://guestart.github.io/ESOSIPSYvEOlb1erb/10%20Number%20of%20Oracle%20SQL%20Impressed%20Pain%20Spots%20You've%20Encountered%20Once.png)
+
 ## 📌 Hook
 
 Whether you've encountered impressed **`Pain Spots`** when dealing with Oracle SQL problems once in your daily Oracle DBA (Computer Information Industry) work?
