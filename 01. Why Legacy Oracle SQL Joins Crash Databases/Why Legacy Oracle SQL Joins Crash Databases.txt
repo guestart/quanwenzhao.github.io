@@ -1,11 +1,4 @@
 
-Based on the "Why Legacy Oracle SQL Joins Crash Databases.m4a" file I finished uploading, could you help me translating the original audio voice speaking stuff into an credible full english words?
-
-
-This transcript details the technical discussion from the provided audio regarding the performance issues caused by legacy Oracle SQL join syntax (using the + operator) compared to the modern ANSI SQL-99 standard.
-
-------------------------------------------------------------------------------------------
-
 Transcript: Why Legacy Oracle SQL Joins Crash Databases
 
 Speaker 1: Imagine your enterprise’s million-dollar database just, you know, grinding to an absolute halt. And the culprit isn’t some massive cyberattack; it’s literally a single tiny plus sign buried in a line of code from, uh, 1989.
