@@ -79,7 +79,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 - **16. Fixing Oracle LAST_VALUE with Inverse Sorts!** 💰🔥
 
 - **17. Why Databases Ignore Your Function-Based Index?** ✅
-  - Video: [Oracle_Query_Optimization.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Query_Optimization.mp44)
+  - Video: [Oracle_Query_Optimization.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Query_Optimization.mp4)
   - Slide Deck: [Oracle_Hierarchical_Query_Optimization.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Hierarchical_Query_Optimization.pdf)
   - Infographic: [Optimizing_Hierarchical_Database_Queries.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Optimizing_Hierarchical_Database_Queries.png)
   - Similar Podcast App: [Faster_Oracle_Hierarchical_Queries_By_SW.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Faster_Oracle_Hierarchical_Queries_By_SW.html) 
