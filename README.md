@@ -31,17 +31,17 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 ## 📚 Course Outline
 
 - **01. Why Legacy Oracle SQL Joins Crash Databases?** ✅
-  - Video: [Oracle SQL Join Paradox.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/Oracle%20SQL%20Join%20Paradox.mp4)
-  - Slide Deck: [Oracle SQL Join Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Oracle%20SQL%20Join%20Paradox.pdf)
-  - Infographic: [SQL Join Syntax Standards Comparison.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/SQL%20Join%20Syntax%20Standards%20Comparison.png)
-  - Similar Podcast App: [Podcast-Why Legacy Oracle SQL Joins Crash Databases-2.html]()
+  - Video: [Oracle_SQL_Join_Paradox.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/01.Why-Legacy-Oracle-SQL-Joins-Crash-Databases/Oracle_SQL_Join_Paradox.mp4)
+  - Slide Deck: [Oracle_SQL_Join_Paradox.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/01.Why-Legacy-Oracle-SQL-Joins-Crash-Databases/Oracle_SQL_Join_Paradox.pdf)
+  - Infographic: [SQL_Join_Syntax_Standards_Comparison.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/01.Why-Legacy-Oracle-SQL-Joins-Crash-Databases/SQL_Join_Syntax_Standards_Comparison.png)
+  - Similar Podcast App: [Podcast-Why_Legacy_Oracle_SQL_Joins_Crash_Databases.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/01.Why-Legacy-Oracle-SQL-Joins-Crash-Databases/Podcast-Why_Legacy_Oracle_SQL_Joins_Crash_Databases.html)
 
 - **02. Why Oracle ROWNUM Greater Than One Returns Zero?** 💰🔥
 
 - **03. Replace ROWNUM With FETCH_FIRST For Speed!** 💰🔥
 
 - **04. Why Oracle SQL Top-N Queries Fail?** ✅
-  - Video: [The Top-N Ghost in the Machine.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/The%20Top-N%20Ghost%20in%20the%20Machine.mp4) **`or`** [YouTube](https://youtu.be/mHv4nyCmm0w)
+  - Video: [The Top-N Ghost in the Machine.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/The%20Top-N%20Ghost%20in%20the%20Machine.mp4)
   - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/The%20Oracle%20ROWNUM%20Paradox.pdf)
   - Infographic: [Database ROWNUM Top-N Query Paradoxed.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Database%20ROWNUM%20Top-N%20Query%20Paradoxed.png)
   - Similar Podcast App: [Podcast-Why Oracle SQL Top-N Queries Fail-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Oracle SQL Top-N Queries Fail.m4a`** in the .html)
@@ -53,7 +53,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 - **07. The Risks of Legacy Oracle Database Types!** 💰🔥
 
 - **08. Two Missing Quotes Crash Oracle Databases!** ✅
-  - Video: [Invisible Index Killer.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/Invisible%20Index%20Killer.mp4) **`or`** [YouTube](https://youtu.be/J5gPSrDer0Y)
+  - Video: [Invisible Index Killer.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/Invisible%20Index%20Killer.mp4)
   - Slide Deck: [Invisible Index Killer.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Invisible%20Index%20Killer.pdf)
   - Infographic: [Mastering SQL Implicit Data Conversions.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Mastering%20SQL%20Implicit%20Data%20Conversions.png)
   - Similar Podcast App: [Podcast-Two Missing Quotes Crash Oracle Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Two Missing Quotes Crash Oracle Databases.m4a`** in the .html)
