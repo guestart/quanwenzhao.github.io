@@ -41,10 +41,10 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 - **03. Replace ROWNUM With FETCH_FIRST For Speed!** 💰🔥
 
 - **04. Why Oracle SQL Top-N Queries Fail?** ✅
-  - Video: [The Top-N Ghost in the Machine.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/The%20Top-N%20Ghost%20in%20the%20Machine.mp4)
-  - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/The%20Oracle%20ROWNUM%20Paradox.pdf)
-  - Infographic: [Database ROWNUM Top-N Query Paradoxed.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Database%20ROWNUM%20Top-N%20Query%20Paradoxed.png)
-  - Similar Podcast App: [Podcast-Why Oracle SQL Top-N Queries Fail-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Oracle SQL Top-N Queries Fail.m4a`** in the .html)
+  - Video: [The_Top-N_Ghost_In_The_Machine.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/04.Why-Oracle-SQL-Top-N-Queries-Fail/The_Top-N_Ghost_In_The_Machine.mp4)
+  - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/04.Why-Oracle-SQL-Top-N-Queries-Fail/The_Oracle_ROWNUM_Paradox.pdf)
+  - Infographic: [Database_ROWNUM_Top-N_Query_Paradoxed.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/04.Why-Oracle-SQL-Top-N-Queries-Fail/Database_ROWNUM_Top-N_Query_Paradoxed.png)
+  - Similar Podcast App: [Podcast-Why_Oracle_SQL_Top-N_Queries_Fail.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/04.Why-Oracle-SQL-Top-N-Queries-Fail/Podcast-Why_Oracle_SQL_Top-N_Queries_Fail.html)
 
 - **05. Why Your SQL Results Keep Shifting?** 💰🔥
 
