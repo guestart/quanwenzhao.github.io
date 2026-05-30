@@ -65,10 +65,10 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 - **11. Avoiding Cartesian Chaos In Oracle SQL!** 💰🔥
 
 - **12. Fixing Oracle CTE Sorts with INLINE!** ✅
-  - Video: [Invisible_Index_Killer.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.mp4)
-  - Slide Deck: [Invisible_Index_Killer.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.pdf)
-  - Infographic: [Mastering_SQL_Implicit_Data_Conversions.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Mastering_SQL_Implicit_Data_Conversions.png)
-  - Similar Podcast App: [Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html)
+  - Video: [Optimizing_Oracle_CTEs.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/Optimizing_Oracle_CTEs.mp4)
+  - Slide Deck: [Oracle_CTE_Optimization.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/Oracle_CTE_Optimization.pdf)
+  - Infographic: [SQL_Tuning_Escaping_Sort_Traps.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/SQL_Tuning_Escaping_Sort_Traps.png)
+  - Similar Podcast App: [Podcast-Fixing_Oracle_CTE_Sorts_With_INLINE.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/Podcast-Fixing_Oracle_CTE_Sorts_With_INLINE.html)
 
 - **13. Fixing ORA-30926 Join Key Fan-Out!** 💰🔥
 
