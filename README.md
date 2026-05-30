@@ -26,7 +26,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
   - You can directly click each **`link`** in the **`Course Outline`** below.
 
 - **02. How can I learn the paid content?**
-  - You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`correct topic`**) to the **.html running in the browser** in order to listen the Podcast meanwhile you're able to open **.txt** file so that see the **subtitles** of **`Podcast`** whilst learning the similar Podcast App.
+  - You can directly download **`12 number of episodes`** into your local computer to learn them after purchasing this curriculum from [https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO).
 
 ## 📚 Course Outline
 
