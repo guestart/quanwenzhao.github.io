@@ -6,13 +6,13 @@
 
 Whether you've encountered impressed **`Pain Spots`** when dealing with Oracle SQL problems once in your daily Oracle DBA (Computer Information Industry) work?
 
-I think there exists plenty of Pain Spots particularly using Oracle SQL. Here're impressed **`Top 17`** (for the **BEGINNER** and **INTERMEDIATE** level) ...
+I think there exists plenty of Pain Spots particularly using Oracle SQL. Here're impressed **`Top 17`** (for the **BEGINNER** and **INTERMEDIATE** level).
 
-You're able to solve them entirely after finish learning the awesome curriculum (It's pretty **`cost-effective`** that you need **`pay $12`** only so that seeing that other 12 episodes).
+You're able to solve them entirely after finish learning the awesome curriculum (It's pretty **`cost-effective`** that you need **`pay $12`** only so that seeing the incredible 12 episodes).
 
 ## 🎓 About the Curriculum
 
-In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, the **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
+In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, and **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
 
 I've built the promotional activity for the curriculum. Namely, there has **5** number of episodes (**1**, **4**, **8**, **12** and **17**) are **`free`**. In fact you just master the **extra 12** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $12** from [https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO)).
 
@@ -79,11 +79,10 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 - **16. Fixing Oracle LAST_VALUE with Inverse Sorts!** 💰🔥
 
 - **17. Why Databases Ignore Your Function-Based Index?** ✅
-  - Video: [Invisible_Index_Killer.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.mp4)
-  - Slide Deck: [Invisible_Index_Killer.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.pdf)
-  - Infographic: [Mastering_SQL_Implicit_Data_Conversions.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Mastering_SQL_Implicit_Data_Conversions.png)
-  - Similar Podcast App: [Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html) 
-
+  - Video: [Oracle_Query_Optimization.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Query_Optimization.mp44)
+  - Slide Deck: [Oracle_Hierarchical_Query_Optimization.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Hierarchical_Query_Optimization.pdf)
+  - Infographic: [Optimizing_Hierarchical_Database_Queries.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Optimizing_Hierarchical_Database_Queries.png)
+  - Similar Podcast App: [Faster_Oracle_Hierarchical_Queries_By_SW.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Faster_Oracle_Hierarchical_Queries_By_SW.html) 
 
 ## 🔍 About the Author
 
